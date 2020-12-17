@@ -1,6 +1,6 @@
 ### Hey, I'm Alex :milky_way:
 
-- 🔭 I’m currently working on no project in particular.
+- 🔭 I’m currently working on no project in particular, but I'm always interested in starting one.
 - 🌱 I’m currently learning Python, and solidifying my Java knowledge.
 - 👯 I’m looking to collaborate on any project, really. Any inspiration is appreciated :bulb:
 - 💬 Ask me about fantasy football or the Indianapolis Colts!
