@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”https://komarev.com/ghpvc/?username=HippomanX" alt=”HippomanX” />
+![](https://komarev.com/ghpvc/?username=HippomanX)
 <a href="https://github.com/sabesansathananthan">
 <img align="center" alt="alex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HippomanX&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
