@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Alex :milky_way:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, and solidifying my Java knowledge.
