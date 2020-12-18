@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, and solidifying my Java knowledge.
 - 👯 I’m looking to collaborate on any project, really. Any inspiration is appreciated :bulb:
 - 💬 Ask me about fantasy football or the Indianapolis Colts!
-- 📫 How to reach me: hit me up by email or text
+- 📫 How to reach me: email alex@alexfree.me or text me if you have my number
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I hate fun facts.
 
