@@ -1,4 +1,4 @@
-### Hey, I'm Alex :milky_way:
+### Alex's Profile :milky_way:
 
 - 🔭 I’m currently working on no project in particular, but I'm always interested in starting one.
 - 🌱 I’m currently learning Python, and solidifying my Java knowledge.
