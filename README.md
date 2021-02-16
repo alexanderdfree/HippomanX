@@ -1,12 +1,12 @@
 ### Alex's Profile :milky_way:
 
-- 🔭 I’m currently working on cipher-kit, a basic program to decrypt and encrypt ciphers. I'm still interested in starting new projects, though.
+- 🔭 I’m currently working on no project in particular.
 - 🌱 I’m currently learning Python, and solidifying my Java knowledge.
 - 👯 I’m looking to collaborate on any project, really. Any inspiration is appreciated :bulb:
 - 💬 Ask me about fantasy football or the Indianapolis Colts!
 - 📫 How to reach me: email alex@alexfree.me
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I hate fun facts.
+- ⚡ Fun fact: I don't like fun facts.
 
 ![](https://komarev.com/ghpvc/?username=HippomanX)
 
